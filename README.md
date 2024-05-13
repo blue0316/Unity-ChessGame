@@ -1,14 +1,5 @@
 # 3D Chess game made on Unity 
 
-## Context 
-This project dates back to October 2021.
-
-It has been realized in collaboration with [Julien Withfield](https://github.com/thekidvoomer) within the scope of the course *CS412/512 - Computer Games Design*  during my exchange semester at Bishop's University, Canada.
-
-## Software
-
-The game has been developped and tested under Unity version **2021.3.8f1 LTS** / JetBrains Rider 2021
-
 ## Description
 
 This is an animated chess game where you have the ability to play against an AI as white or black, against another player and even watch an AI vs AI game. We have gone for a cartoonish art style.
